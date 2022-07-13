@@ -4,7 +4,7 @@ This is my second project.
 
 In this project flexbox is the stlying method used.
 
-I had some issues fixing the border around my image,
-I see some space between the image and the border.
+Finaily I have been able to fix the page to the best of my 
+knowledge.
 
-I don't how to fix it rigth now, I will be back with a fix for that.
+click to veiw: https://ucheodiaka.github.io/landingpage/
