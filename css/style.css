@@ -65,6 +65,7 @@ img {
     font-weight: bold;
     color: #f9faf8;
     border-radius: 10px;
+    border: none;
 }
 
 .title {
@@ -87,12 +88,13 @@ img {
     width: 300px;
     height: 200px;
     border: 6px solid #3882f6;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .bx-txt {
     font-size: 18px;
     text-align: center;
+    padding-top: 20px;
 }
 
 .txt {
